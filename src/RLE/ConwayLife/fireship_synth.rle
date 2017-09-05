@@ -1,0 +1,38 @@
+#N fireship_synth.rle
+#O Nico Brown 
+#C 30-glider synthesis of copperhead spaceship found by Nico Brown on
+#C   5 March 2016.  Repeat time of this recipe is 480 ticks, due to
+#C   the fireship's slow speed.
+#C http://www.conwaylife.com/forums/viewtopic.php?f=2&t=2057&p=29000#p29000
+#C http://conwaylife.com/wiki/Fireship
+#C http://conwaylife.com/patterns/fireship_synth.rle
+x = 398, y = 304, rule = B3/S23
+3bobo284bobo$4b2o279bo4b2o$4bo278b2o6bo$284b2o$23bo$21bobo$3bo18b2o
+268bo$4bo286bo$2b3o268bo17b3o$271b2o$272b2o5$21bobo248bobo$22b2o248b2o
+$22bo250bo103$123bobo44bobo$124b2o39bo4b2o$124bo38b2o6bo$164b2o$143bo$
+141bobo139bo$123bo18b2o28bo110bobo71bobo32bobo$124bo46bo111b2o73b2o32b
+2o$122b3o28bo17b3o94bobo87bo34bo$151b2o111bo4b2o$152b2o110b2o3bo$263bo
+bo$271bo85bo36bo$137b2o132bobo84bo34bo$136bobo132b2o83b3o34b3o$138bo2b
+obo8bobo46bobo8bobo$142b2o8b2o48b2o8b2o$142bo10bo48bo10bo78b2o2b2o15b
+2o2b2o14b2o2b2o34b2o2b2o$292b2o2b2o15b2o2b2o14b2o2b2o34b2o2b2o3$237b2o
+4b2o22b2o4b2o16b2o4b2o13b2o4b2o12b2o4b2o32b2o4b2o$145b2o2b2o54b2o2b2o
+26bobo2bobo22bobo2bobo16bobo2bobo13bobo2bobo12bobo2bobo32bobo2bobo$
+144bobo2bobo52bobo2bobo27bo2bo26bo2bo20bo2bo17bo2bo16bo2bo36bo2bo$146b
+o2bo56bo2bo28bo4bo24bo4bo18bo4bo15bo4bo14bo4bo34bo4bo$238bo4bo24bo4bo
+18bo4bo15bo4bo14bo4bo34bo4bo$238bo4bo24bo4bo18bo4bo15bo4bo14bo4bo34bo
+4bo$240b2o28b2o22b2o19b2o18b2o38b2o3$240b2o$142b3o6b3o48b3o6b3o26b2o$
+144bo6bo52bo6bo$143bo8bo50bo8bo57b2o22b2o19b2o18b2o38b2o$270b2o22b2o
+19b2o18b2o20b2o16b2o16b2o$356bobo34bobo$318b2o12b2o4b2o18bo13b2o4b2o
+13bo$144b3o170bo2bo10bo2bo2bo2bo30bo2bo2bo2bo$146bo89b3o60b2o9b2o6b2o
+12b2o4b2o32b2o4b2o$145bo10bo81bo60bobo7bobo$123b2o30b2o14b2o64bo12bo
+48bo11bo49bo13b2o13bo$122bobo30bobo13bobo75b2o43b2o19b2o44b2o12b2o12b
+2o$124bo46bo77bobo41bobo19bobo19b2o15b3o3bobo26bobo3b3o$295bo19bo21bob
+o16bo38bo$158b2o177bo17bo40bo$157b2o172b2o$127bo31bo8bo161bobo$127b2o
+12b2o24b2o163bo$120b3o3bobo13b2o23bobo3b3o$122bo8b3o7bo31bo$121bo11bo
+40bo$132bo$157b3o$157bo$158bo$161b3o195b2o30b2o$161bo198b2o28b2o$162bo
+196bo32bo$130b3o$132bo$131bo$125b2o42b2o$126b2o40b2o$125bo44bo70$17b2o
+$16bobo$18bo7$25b2o242b2o$24bobo242bobo$26bo242bo7$22b3o246b3o$24bo
+246bo$23bo248bo4$24b3o$26bo$25bo250bo$3b2o270b2o14b2o$2bobo270bobo13bo
+bo$4bo286bo2$278b2o$277b2o$7bo271bo8bo$7b2o12b2o264b2o$3o3bobo13b2o
+263bobo3b3o$2bo8b3o7bo271bo$bo11bo280bo$12bo$277b3o$277bo$278bo$281b3o
+$281bo$282bo$10b3o$12bo$11bo$5b2o282b2o$6b2o280b2o$5bo284bo!

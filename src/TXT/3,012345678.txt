@@ -1,0 +1,1 @@
+LIFE WITHOUT DEATH: cells are born if they have exactly 3 neighbors and survive independently of the number of immediate neighbors.

@@ -1,0 +1,1 @@
+cells survive from one generation to the next if they have 2 or 3 neighbours, and are born if they have 3 or 6 neighbours. 

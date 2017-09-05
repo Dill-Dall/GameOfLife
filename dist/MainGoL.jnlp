@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="MainGoL.jnlp">
+  <information>
+    <title>MainGoL</title>
+    <vendor>tadah</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="MainGoL.jar" size="59718277" download="eager" />
+    <jar href="lib\GIFLib.jar" size="4233" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="MainGoL" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="maingol.MainGoL"  name="MainGoL" />
+  <update check="always"/>
+</jnlp>

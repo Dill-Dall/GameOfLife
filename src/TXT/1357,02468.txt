@@ -1,0 +1,1 @@
+FREDKIN: a cell is born if there are an odd number of neighbors and survives if there are an even number of neighbors (0 is considered an even number).

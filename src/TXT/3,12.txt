@@ -1,0 +1,1 @@
+FLOCK: cells are born if they have 3 neighbors and survive if they have 1 or 2 neighbors.

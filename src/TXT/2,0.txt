@@ -1,0 +1,1 @@
+LIVE FREE OR DIE: cells survive if they have zero neighbors and are born if they have two neighbors.

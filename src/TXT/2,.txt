@@ -1,0 +1,1 @@
+SEEDS: a rule set where no cells survive to the next generation and cells are born if they have two neighbors.

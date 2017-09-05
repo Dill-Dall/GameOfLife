@@ -1,0 +1,1 @@
+2x2: cells are born if they have 3 or 6 neighbors and survives if they have 1, 2 or 5 neighbors.
